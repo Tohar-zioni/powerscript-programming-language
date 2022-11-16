@@ -11,7 +11,7 @@ how to run .psk file
 
 
 2.u need this 2 files
-<img src="2.png/>
+<img src="2.png"/>
 
 3.run this command:
 <img src="3.png"/>
