@@ -51,6 +51,6 @@ def Lang(Syntax):
     print(String)
     
 
-Content = open("main.ps", "r").readlines()
+Content = open("main.psk", "r").readlines()
 for Line in Content:
     Lang(Line)
